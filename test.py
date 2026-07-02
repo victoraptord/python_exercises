@@ -3,6 +3,3 @@
 print("Fried Rice")
 print("Shrimp Soup")
 print("Fish and Chips")
-
-print("Chicken Soup")
-print("Onion Soup")
